@@ -11,7 +11,7 @@ end
 def link
   quest = "It's Dangerous To Go Alone! Take This."
   puts quest
-
+end
 
 def any_phrase(phrase)
   puts phrase
