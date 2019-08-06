@@ -13,6 +13,6 @@ def link
   puts quest
 
 
-def any_phrase(phrase)
-  puts phrase
-end
+#def any_phrase(phrase)
+ # puts phrase
+#end
