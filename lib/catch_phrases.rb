@@ -1,5 +1,5 @@
 def mario
-  phase = "It's-a me, Mario!'"
+  phase = "It's-a me, Mario!"
   puts phrase
 end
 
